@@ -77,6 +77,15 @@ Auth::loginUsingId(1, true);
 ```
 
 
+## Mendapatkan URI 
+```
+Request::segment(1) 
+Request::segment(2) 
+...
+
+```
+
+
 ## Artisan tanpa menulis di terminal
 Jika anda lambat dalam menulis, ada alternatif lain yang juga bisa digunakan pada anda yang cepat dalam menulis namun tidak ingin menghafal perintah yang harus di tulis, berikut langkah-langkahnya :
 
