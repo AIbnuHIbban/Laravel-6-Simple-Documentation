@@ -89,8 +89,11 @@ Auth::loginUsingId(1, true);
 ```
 Request::segment(1) 
 Request::segment(2) 
-...
+```
 
+## Pencarian Data di Database
+```php
+->where('name', 'like', 'T%')
 ```
 
 ## Artisan tanpa menulis di terminal
