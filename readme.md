@@ -9,6 +9,16 @@ Dibuat untuk mempermudah yang baru saja terjun ke Laravel 6
 composer create-project --prefer-dist laravel/laravel blog
 ```
 
+## Menggunakan Git Repo Saya
+
+ - **Setup Installer with ADMIN LTE 3 Dashboard**
+```php
+git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-AdminLT3.git nama_project
+```
+ - **Setup Installer with CORE UI Dashboard**
+```php
+git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-CoreUI.git nama_project
+```
 ## Membuat Authentication
 
 Install Laravel UI
@@ -75,8 +85,6 @@ Auth::loginUsingId(1, true);
             'password' => bcrypt('secret'),
         ]);
 ```
-
-
 ## Mendapatkan URI 
 ```
 Request::segment(1) 
@@ -84,7 +92,6 @@ Request::segment(2)
 ...
 
 ```
-
 
 ## Artisan tanpa menulis di terminal
 Jika anda lambat dalam menulis, ada alternatif lain yang juga bisa digunakan pada anda yang cepat dalam menulis namun tidak ingin menghafal perintah yang harus di tulis, berikut langkah-langkahnya :
