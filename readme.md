@@ -23,7 +23,10 @@ git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-CoreUI.git nama_project
 ```php
 git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Azzara-Template.git nama_project
 ```
-
+ - **Setup Installer with Stisla Dashboard**
+```php
+git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Stisla.git nama_project
+```
 ## Membuat Authentication
 
 Install Laravel UI
