@@ -11,6 +11,10 @@ composer create-project --prefer-dist laravel/laravel blog
 
 ## Menggunakan Git Repo Saya
 
+- **Setup Installer with Bootstrap No Template**
+```php
+git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Bootstrap.git nama_project
+```
  - **Setup Installer with ADMIN LTE 3 Dashboard**
 ```php
 git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-AdminLT3.git nama_project
@@ -27,6 +31,11 @@ git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Azzara-Template.git nam
 ```php
 git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Stisla.git nama_project
 ```
+- **Setup Installer with Atlantis Dashboard**
+```php
+git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Atlantis-Lite.git nama_project
+```
+
 ## Membuat Authentication
 
 Install Laravel UI
