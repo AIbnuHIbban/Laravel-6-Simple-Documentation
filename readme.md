@@ -35,7 +35,10 @@ git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Stisla.git nama_project
 ```php
 git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Atlantis-Lite.git nama_project
 ```
-
+- **Setup Installer with Adminty Dashboard**
+```php
+git clone https://github.com/AIbnuHIbban/Laravel-6-Setup-Adminty.git nama_project
+```
 ## Membuat Authentication
 
 Install Laravel UI
